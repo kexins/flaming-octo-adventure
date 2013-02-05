@@ -1,0 +1,28 @@
+thread number is 13348
+thread gender: male
+thread loops: 3
+thread minimum time in queue: 1003.000000 milliseconds
+thread maximum time in queue: 1027.000000 milliseconds
+thread average time in queue: 1015.000000 milliseconds
+
+thread number is 13347
+thread gender: male
+thread loops: 5
+thread minimum time in queue: 1004.000000 milliseconds
+thread maximum time in queue: 1052.000000 milliseconds
+thread average time in queue: 1028.000000 milliseconds
+
+thread number is 13346
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1003.000000 milliseconds
+thread maximum time in queue: 1103.000000 milliseconds
+thread average time in queue: 1053.000000 milliseconds
+
+thread number is 13345
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1002.000000 milliseconds
+thread maximum time in queue: 1153.000000 milliseconds
+thread average time in queue: 1077.833333 milliseconds
+

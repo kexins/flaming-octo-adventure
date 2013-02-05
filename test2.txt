@@ -1,0 +1,168 @@
+thread number is 13373
+thread gender: female
+thread loops: 3
+thread minimum time in queue: 1456.000000 milliseconds
+thread maximum time in queue: 1496.000000 milliseconds
+thread average time in queue: 1476.000000 milliseconds
+
+thread number is 13355
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1451.000000 milliseconds
+thread maximum time in queue: 1542.000000 milliseconds
+thread average time in queue: 1496.833333 milliseconds
+
+thread number is 13365
+thread gender: female
+thread loops: 5
+thread minimum time in queue: 1452.000000 milliseconds
+thread maximum time in queue: 1565.000000 milliseconds
+thread average time in queue: 1508.800000 milliseconds
+
+thread number is 13366
+thread gender: male
+thread loops: 4
+thread minimum time in queue: 1462.000000 milliseconds
+thread maximum time in queue: 1595.000000 milliseconds
+thread average time in queue: 1528.750000 milliseconds
+
+thread number is 13357
+thread gender: male
+thread loops: 9
+thread minimum time in queue: 1454.000000 milliseconds
+thread maximum time in queue: 1631.000000 milliseconds
+thread average time in queue: 1542.888889 milliseconds
+
+thread number is 13368
+thread gender: female
+thread loops: 7
+thread minimum time in queue: 1454.000000 milliseconds
+thread maximum time in queue: 1635.000000 milliseconds
+thread average time in queue: 1544.857143 milliseconds
+
+thread number is 13364
+thread gender: male
+thread loops: 4
+thread minimum time in queue: 1472.000000 milliseconds
+thread maximum time in queue: 1653.000000 milliseconds
+thread average time in queue: 1562.750000 milliseconds
+
+thread number is 13359
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1456.000000 milliseconds
+thread maximum time in queue: 1667.000000 milliseconds
+thread average time in queue: 1561.833333 milliseconds
+
+thread number is 13374
+thread gender: female
+thread loops: 7
+thread minimum time in queue: 1463.000000 milliseconds
+thread maximum time in queue: 1679.000000 milliseconds
+thread average time in queue: 1571.000000 milliseconds
+
+thread number is 13354
+thread gender: female
+thread loops: 10
+thread minimum time in queue: 1456.000000 milliseconds
+thread maximum time in queue: 1691.000000 milliseconds
+thread average time in queue: 1573.900000 milliseconds
+
+thread number is 13372
+thread gender: female
+thread loops: 8
+thread minimum time in queue: 1464.000000 milliseconds
+thread maximum time in queue: 1716.000000 milliseconds
+thread average time in queue: 1590.000000 milliseconds
+
+thread number is 13370
+thread gender: male
+thread loops: 13
+thread minimum time in queue: 1451.000000 milliseconds
+thread maximum time in queue: 1739.000000 milliseconds
+thread average time in queue: 1595.000000 milliseconds
+
+thread number is 13363
+thread gender: male
+thread loops: 9
+thread minimum time in queue: 1461.000000 milliseconds
+thread maximum time in queue: 1750.000000 milliseconds
+thread average time in queue: 1605.888889 milliseconds
+
+thread number is 13353
+thread gender: male
+thread loops: 11
+thread minimum time in queue: 1452.000000 milliseconds
+thread maximum time in queue: 1793.000000 milliseconds
+thread average time in queue: 1622.909091 milliseconds
+
+thread number is 13356
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1472.000000 milliseconds
+thread maximum time in queue: 1793.000000 milliseconds
+thread average time in queue: 1632.833333 milliseconds
+
+thread number is 13371
+thread gender: male
+thread loops: 10
+thread minimum time in queue: 1463.000000 milliseconds
+thread maximum time in queue: 1823.000000 milliseconds
+thread average time in queue: 1643.000000 milliseconds
+
+thread number is 13361
+thread gender: female
+thread loops: 6
+thread minimum time in queue: 1470.000000 milliseconds
+thread maximum time in queue: 1811.000000 milliseconds
+thread average time in queue: 1640.833333 milliseconds
+
+thread number is 13358
+thread gender: male
+thread loops: 7
+thread minimum time in queue: 1475.000000 milliseconds
+thread maximum time in queue: 1932.000000 milliseconds
+thread average time in queue: 1703.857143 milliseconds
+
+thread number is 13352
+thread gender: female
+thread loops: 12
+thread minimum time in queue: 1450.000000 milliseconds
+thread maximum time in queue: 1957.000000 milliseconds
+thread average time in queue: 1703.916667 milliseconds
+
+thread number is 13367
+thread gender: female
+thread loops: 11
+thread minimum time in queue: 49.000000 milliseconds
+thread maximum time in queue: 1985.000000 milliseconds
+thread average time in queue: 1429.272727 milliseconds
+
+thread number is 13362
+thread gender: female
+thread loops: 13
+thread minimum time in queue: 29.000000 milliseconds
+thread maximum time in queue: 1973.000000 milliseconds
+thread average time in queue: 1343.384615 milliseconds
+
+thread number is 13375
+thread gender: female
+thread loops: 14
+thread minimum time in queue: 75.000000 milliseconds
+thread maximum time in queue: 2015.000000 milliseconds
+thread average time in queue: 1293.428571 milliseconds
+
+thread number is 13360
+thread gender: female
+thread loops: 14
+thread minimum time in queue: 30.000000 milliseconds
+thread maximum time in queue: 1960.000000 milliseconds
+thread average time in queue: 1067.285714 milliseconds
+
+thread number is 13369
+thread gender: female
+thread loops: 17
+thread minimum time in queue: 34.000000 milliseconds
+thread maximum time in queue: 1972.000000 milliseconds
+thread average time in queue: 1030.000000 milliseconds
+
